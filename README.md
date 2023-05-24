@@ -16,10 +16,7 @@ yarn dev
 pnpm dev
 ```
 
-### Linkedln
+### Linkedln: [Ekrem Günden](https://www.linkedin.com/in/ekrem-günden-b133431ba/)
 
-[Ekrem Günden](https://www.linkedin.com/in/ekrem-günden-b133431ba/)
+### Instagram: [ekrem.1r0n13](https://www.instagram.com/ekrem.1r0n13/)
 
-### Instagram
-
-[ekrem.1r0n13](https://www.instagram.com/ekrem.1r0n13/)
